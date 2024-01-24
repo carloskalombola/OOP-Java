@@ -11,4 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>ClassesObjects_EncapsulatingHidingInformation</exec.mainClass>
     </properties>
+    <name>Classes-objects_Encapsulating-HidingInformation</name>
 </project>
